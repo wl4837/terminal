@@ -1,0 +1,10 @@
+C:\Users\wl4837\source\repos\wl4837ATools\wl4837ATools\bin\Debug\wl4837ATools.exe.config
+C:\Users\wl4837\source\repos\wl4837ATools\wl4837ATools\bin\Debug\wl4837ATools.exe
+C:\Users\wl4837\source\repos\wl4837ATools\wl4837ATools\bin\Debug\wl4837ATools.pdb
+C:\Users\wl4837\source\repos\wl4837ATools\wl4837ATools\obj\Debug\wl4837ATools.Properties.Resources.resources
+C:\Users\wl4837\source\repos\wl4837ATools\wl4837ATools\obj\Debug\wl4837ATools.csproj.GenerateResource.Cache
+C:\Users\wl4837\source\repos\wl4837ATools\wl4837ATools\obj\Debug\wl4837ATools.csproj.CoreCompileInputs.cache
+C:\Users\wl4837\source\repos\wl4837ATools\wl4837ATools\obj\Debug\wl4837ATools.exe
+C:\Users\wl4837\source\repos\wl4837ATools\wl4837ATools\obj\Debug\wl4837ATools.pdb
+C:\Users\wl4837\source\repos\wl4837ATools\wl4837ATools\obj\Debug\wl4837ATools.csprojResolveAssemblyReference.cache
+C:\Users\wl4837\source\repos\wl4837ATools\wl4837ATools\obj\Debug\wl4837ATools.Home.resources
